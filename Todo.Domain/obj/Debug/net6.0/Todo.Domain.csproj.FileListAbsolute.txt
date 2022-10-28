@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\brincantemasterback\refatorando\apitodo\Todo.Domain\bin\Debug\net6.0\Todo.Domain.deps.json
+C:\Users\User\Desktop\brincantemasterback\refatorando\apitodo\Todo.Domain\bin\Debug\net6.0\Todo.Domain.dll
+C:\Users\User\Desktop\brincantemasterback\refatorando\apitodo\Todo.Domain\bin\Debug\net6.0\Todo.Domain.pdb
+C:\Users\User\Desktop\brincantemasterback\refatorando\apitodo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\brincantemasterback\refatorando\apitodo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\brincantemasterback\refatorando\apitodo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\brincantemasterback\refatorando\apitodo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\brincantemasterback\refatorando\apitodo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\brincantemasterback\refatorando\apitodo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.dll
+C:\Users\User\Desktop\brincantemasterback\refatorando\apitodo\Todo.Domain\obj\Debug\net6.0\refint\Todo.Domain.dll
+C:\Users\User\Desktop\brincantemasterback\refatorando\apitodo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.pdb
+C:\Users\User\Desktop\brincantemasterback\refatorando\apitodo\Todo.Domain\obj\Debug\net6.0\ref\Todo.Domain.dll
